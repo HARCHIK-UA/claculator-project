@@ -1,4 +1,4 @@
-&nbsp;Документація API
+\# Документація API
 
 \## Модуль Calculator
 
@@ -71,4 +71,6 @@ def divide(a, b):
 result = divide(10, 2)
 
 print(result) # Виведе: 5.0
+
+``````
 
