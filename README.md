@@ -22,7 +22,7 @@
 1. Клонуйте репозиторій:
 ```bash
 git clone https://github.com/HARCHIK-UA/claculator-project.git
-
+``````
 2. Перейдіть у папку проєкту:
 ``````bash
 cd calculator-project
